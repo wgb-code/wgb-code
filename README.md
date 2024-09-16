@@ -31,9 +31,11 @@ Fora do ambiente profissional e acadêmico estou **construindo o site CasalHub (
 <code><img height="32" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/></code>
 <code><img height="32" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/></code>
 
+
 <h4>Banco de Dados</h4>
 <code><img height="32" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/></code>
 <code><img height="32" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MysSQL"/></code>
+<code><img height="32" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/></code>
 
 <h4>Infraestrutura</h4>
 
