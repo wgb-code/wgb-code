@@ -2,7 +2,7 @@
 
 Tenho 23 anos, e sou **Desenvolvedor FullStack** na empresa TomTicket.
 
-🔭 Atualmente estou trabalhando na modernização do produto da empresa que trabalho trabalhando com um foco extra em **FRONTEND** onde uso tecnologias como Angular & React/Next.
+🔭 Atualmente estou trabalhando na modernização do produto da empresa que trabalho trabalhando com um foco extra em **FRONTEND** onde uso tecnologias como **Angular & React/Next.**
 
 Além disto estou finalizando a faculdade de **Análise e Desenvolvimento de Sistemas.**
 
