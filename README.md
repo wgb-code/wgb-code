@@ -2,9 +2,11 @@
 
 Tenho 23 anos, e sou **Desenvolvedor FullStack** na empresa TomTicket.
 
-🔭 Atualmente estou trabalhando na modernização do produto da empresa que trabalho e finalizando a faculdade de **Análise e Desenvolvimento de Sistemas.**
+🔭 Atualmente estou trabalhando na modernização do produto da empresa que trabalho trabalhando com um foco extra em **FRONTEND** onde uso tecnologias como Angular & React/Next.
 
-Fora do ambiente profissional e acadêmico estou **construindo o site CasalHub (o nome é provisório rs)**, um projeto Fullstack utilizando tecnologias como **Laravel, Angular, ElasticSearch, Docker, PostgreSQL**.
+Além disto estou finalizando a faculdade de **Análise e Desenvolvimento de Sistemas.**
+
+Fora do ambiente profissional e acadêmico participo de projetos atuando como Freelancer, já participei de projetos de pequena e larga escalas atuando em sistemas que utilizavam arquiteturas **Monolíticas** e outros que já abistraiam mais para arquiteturas de **Microserviços**.
 
 💬 Deseja entrar em contato? **minhas redes sociais estarão logo abaixo.**
 
