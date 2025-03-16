@@ -1,6 +1,6 @@
 # 🚀 Eu sou o Willian!
 
-Tenho 23 anos, e sou **Desenvolvedor FullStack** na empresa TomTicket.
+Tenho 24 anos, e sou **Desenvolvedor FullStack** na empresa TomTicket.
 
 🔭 Atualmente estou trabalhando na modernização do produto da empresa que trabalho trabalhando com um foco extra em **FRONTEND** onde uso tecnologias como **Angular & React/Next.**
 
