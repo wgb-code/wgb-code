@@ -1,39 +1,54 @@
-# 🚀 Eu sou o Willian!
+# 👋 Olá! Eu sou o Willian Gabriel
 
-Tenho 24 anos, e sou **Desenvolvedor FullStack**
+Sou **Desenvolvedor Web** com foco em **Frontend**, atuando também como **Fullstack** e com experiência prática em **Mobile**. Tenho paixão por criar soluções escaláveis, bem estruturadas e com foco em performance.
 
-🔭 Atualmente estou trabalhando na modernização do produto da empresa que trabalho trabalhando com um foco extra em **FRONTEND** onde uso tecnologias como **Angular & React/Next.**
+---
 
-Além disto estou finalizando a faculdade de **Análise e Desenvolvimento de Sistemas.**
+## 🧠 Sobre mim
 
-Fora do ambiente profissional e acadêmico participo de projetos atuando como Freelancer, já participei de projetos de pequena e larga escalas atuando em sistemas que utilizavam arquiteturas **Monolíticas** e outros que já abistraiam mais para arquiteturas de **Microserviços**.
+- 💻 Atuação forte com **React** e todo seu ecossistema
+- 📱 Experiência com **React Native** (Expo e CLI)
+- 🧩 Trabalho com **arquitetura de microserviços** e **micro frontends**
+- 🛠️ Aplicação de **boas práticas de desenvolvimento**, **design patterns** e **testes**
+- ☁️ Vivência com **DevOps**, **CI/CD**, **Docker**, **Kubernetes** e **AWS**
 
-💬 Deseja entrar em contato? **minhas redes sociais estarão logo abaixo.**
+---
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/wgb-developer/" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://www.instagram.com/w1llian__/" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-EF4444?style=flat-square&labelColor=EF4444&logo=instagram&logoColor=white" alt="Instagram"/></a>
-</p>
+## 🚀 Stack Principal
 
-Possuo sólida experiência em **Desenvolvimento FullStack** porém, sou mais afixionado pelo **Frontend**
+### Frontend
+- ⚛️ React / Next.js (Hooks, Context API, Server Components)
+- 🎨 TailwindCSS
+- 🎯 Figma for Developers
+- 📱 React Native (Expo e CLI)
 
-Abaixo algumas tecnologias que domino e já trabalhei:
+### Backend
+- 🧠 Node.js (Express, NestJS)
+- 🟨 TypeScript
+- 🐰 RabbitMQ
+- 🧱 Redis
+- 🧬 PostgreSQL / MongoDB
+- 🧰 PrismaORM / Drizzle / Mongoose
 
-## Backend
-- **Node (Fastify, Express, Nest, Addonis)**
-- **PHP (Laravel, Codeigniter, Slim)**
+### DevOps & Arquitetura
+- 🐳 Docker
+- ☸️ Kubernetes
+- 🔁 CI/CD
+- 🔍 Monitoramento com Sentry
+- ☁️ AWS (S3, SES, EC2)
 
-## Frontend
-- **HTML, CSS, JAVASCRIPT**
-- **ReactJS, TypeScript, NextJS, Angular**
+### Outros
+- 🧠 Design Patterns
+- 📁 Git & GitHub
+- ✅ Testes Unitários com JEST
 
-## Banco de Dados / STORAGES
-- **PostgreSQL, MySQL, AWS S3**
+---
 
-## Infra
-- **Docker, Kubernets, Terraform**
+## 📫 Entre em contato
 
-  
-Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/wgb-developer/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/wgb-developer/)  
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:front.willian@gmail.com)
+
+---
+
+⭐️ Sinta-se à vontade para explorar meus repositórios e projetos!
